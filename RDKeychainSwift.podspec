@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "RDKeychainSwift"
-  s.version          = "1.1.1"
+  s.version          = "1.2.0"
   s.summary          = "Swift wrapper of iOS C Keychain Framework"
   s.description      = <<-DESC
                         This Keychain Swift API library is a wrapper of iOS C Keychain Framework.

@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name             = "KeychainSwift"
+  s.name             = "RDKeychainSwift"
   s.version          = "1.1.1"
   s.summary          = "Swift wrapper of iOS C Keychain Framework"
   s.description      = <<-DESC
